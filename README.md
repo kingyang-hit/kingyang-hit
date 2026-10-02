@@ -2,8 +2,8 @@
   HOW TO USE (delete this block when done):
   1. This file is for the repo kingyang-hit/kingyang-hit (README.md).
   2. Edit that repo's README.md, replace all content with this file, commit.
-  3. The "Featured Projects" and "Awards" sections are kept at the bottom
-     in commented-out form — uncomment them whenever you want them back.
+  3. Optional sections (instruments / stats / projects / awards) are kept
+     at the bottom in commented-out form — uncomment to enable.
 ====================================================================== -->
 
 <h1 align="center">Hi, I'm Qingyang Wang 👋</h1>
@@ -22,7 +22,7 @@
 
 ## 🔧 About Me
 
-- 🎓 Harbin Institute of Technology, B.Eng. in Electrical Engineering & Automation (2023 – 2027), recommended for M.ENG. admission 
+- 🎓 Harbin Institute of Technology, B.Eng. in Electrical Engineering & Automation (2023 – 2027), recommended for M.Eng. admission
 - 🎯 Looking for hardware design internships in consumer electronics & robotics
 - ⚡ Current learning path: high-speed PCB & signal integrity → data-acquisition chains (AFE + ADC) → FPGA (Verilog)
 - 📫 Contact: 1943629603@qq.com
@@ -46,11 +46,27 @@
 ![Git](https://img.shields.io/badge/Git-version_control-F05032?logo=git&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA_Verilog-learning-blue)
 
+## 🏫 Student Leadership
 
+- 🛩️ **Vice President**, Aeromodelling Association 
+- 🚗 **Head of Software Department**, Smart Car Innovation Club 
+- 🎮 Hands-on focus: control & planning for multirotors and smart cars
 
 <!-- ====================================================================
-The two sections below are temporarily hidden. Remove the comment markers
-to bring them back:
+OPTIONAL SECTIONS — remove the comment markers around a section to
+enable it (adjust content first if needed):
+
+## 🧭 Instruments & Simulation
+
+- Oscilloscope (ripple / timing / protocol decode), electronic load, DMM
+- LTspice for power-stage simulation
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kingyang-hit&show_icons=true&hide_border=true&theme=transparent"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingyang-hit&layout=compact&hide_border=true&theme=transparent"/>
+</p>
 
 ## 📌 Featured Projects
 
